@@ -1,0 +1,11 @@
+{
+    "products": [
+      { "id": "001", "name": "Manzana", "price": 2.5 },
+      { "id": "002", "name": "Banana", "price": 1.0 },
+      { "id": "003", "name": "Naranja", "price": 1.8 },
+      { "id": "004", "name": "Fresa", "price": 3.0 },
+      { "id": "005", "name": "Piña", "price": 4.0 }
+    ],
+    "orders": []
+}
+  
